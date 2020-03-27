@@ -1,5 +1,6 @@
-  <h4>En cours.</h4>
-
+  <img src="https://image.flaticon.com/icons/svg/321/321773.svg" width="50" title="success">
+  <h4>Soutenance du projet a été validé.</h4>
+  
 
 # ExpressFood
 Projet 4 de mon parcours Développeur d'application PHP/Symfony chez OpenClassrooms. Conception d’une solution technique de base de données via la réalisation de diagrammes UML. 
